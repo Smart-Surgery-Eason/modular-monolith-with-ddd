@@ -138,21 +138,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyName.MyMeetings.SUT"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Registrations", "Registrations", "{8F0598A5-2F0C-4FA6-82F6-938F1830ADB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyName.MyMeetings.Modules.Registrations.Application", "Modules\Registrations\Application\CompanyName.MyMeetings.Modules.Registrations.Application.csproj", "{3D5E4893-E48A-4553-B036-724A8F809656}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyName.MyMeetings.Modules.Registrations.Application", "Modules\Registrations\Application\CompanyName.MyMeetings.Modules.Registrations.Application.csproj", "{3D5E4893-E48A-4553-B036-724A8F809656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyName.MyMeetings.Modules.Registrations.Domain", "Modules\Registrations\Domain\CompanyName.MyMeetings.Modules.Registrations.Domain.csproj", "{98CE491C-8A52-4FC9-87BD-36FE63CB37E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyName.MyMeetings.Modules.Registrations.Domain", "Modules\Registrations\Domain\CompanyName.MyMeetings.Modules.Registrations.Domain.csproj", "{98CE491C-8A52-4FC9-87BD-36FE63CB37E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyName.MyMeetings.Modules.Registrations.Infrastructure", "Modules\Registrations\Infrastructure\CompanyName.MyMeetings.Modules.Registrations.Infrastructure.csproj", "{5F24D649-5684-458E-8C67-CCEC85E271A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyName.MyMeetings.Modules.Registrations.Infrastructure", "Modules\Registrations\Infrastructure\CompanyName.MyMeetings.Modules.Registrations.Infrastructure.csproj", "{5F24D649-5684-458E-8C67-CCEC85E271A0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{646E463D-F0E2-4BA4-9B5E-434ABE26EC07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyName.MyMeetings.Modules.Registrations.ArchTests", "Modules\Registrations\Tests\ArchTests\CompanyName.MyMeetings.Modules.Registrations.ArchTests.csproj", "{96639493-5D2D-4F61-B399-600673D6912D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyName.MyMeetings.Modules.Registrations.ArchTests", "Modules\Registrations\Tests\ArchTests\CompanyName.MyMeetings.Modules.Registrations.ArchTests.csproj", "{96639493-5D2D-4F61-B399-600673D6912D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyNames.MyMeetings.Modules.Registrations.IntegrationTests", "Modules\Registrations\Tests\IntegrationTests\CompanyNames.MyMeetings.Modules.Registrations.IntegrationTests.csproj", "{9AB969B5-4215-4ACF-8D48-EC0A6F35BC46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyNames.MyMeetings.Modules.Registrations.IntegrationTests", "Modules\Registrations\Tests\IntegrationTests\CompanyNames.MyMeetings.Modules.Registrations.IntegrationTests.csproj", "{9AB969B5-4215-4ACF-8D48-EC0A6F35BC46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyName.MyMeetings.Modules.Registrations.Domain.UnitTests", "Modules\Registrations\Tests\UnitTests\CompanyName.MyMeetings.Modules.Registrations.Domain.UnitTests.csproj", "{0535D1F2-FA8B-4093-9987-7533F8D07605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyName.MyMeetings.Modules.Registrations.Domain.UnitTests", "Modules\Registrations\Tests\UnitTests\CompanyName.MyMeetings.Modules.Registrations.Domain.UnitTests.csproj", "{0535D1F2-FA8B-4093-9987-7533F8D07605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyName.MyMeetings.Modules.Registrations.IntegrationEvents", "Modules\Registrations\IntegrationEvents\CompanyName.MyMeetings.Modules.Registrations.IntegrationEvents.csproj", "{2E71D2B2-516D-4B0D-8DE6-B9F3105B9C95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyName.MyMeetings.Modules.Registrations.IntegrationEvents", "Modules\Registrations\IntegrationEvents\CompanyName.MyMeetings.Modules.Registrations.IntegrationEvents.csproj", "{2E71D2B2-516D-4B0D-8DE6-B9F3105B9C95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
